@@ -1,5 +1,5 @@
 # SDVs
-Explore the world of Self-Driving Vehicles (SDVs) with this beginner-friendly repository, offering essential resources and code examples to kickstart your journey into autonomous driving.
+Explore the world of Self-Driving Vehicles (SDVs) with this beginner-friendly repository, offering essential resources into autonomous driving and documenting my progress.
 
 This Python repository provides an implementation of lane detection in road images and videos using the Hough Transform and Canny Edge Detection techniques. It also includes a Region of Interest (ROI) feature for more precise lane detection within a defined region.
 
